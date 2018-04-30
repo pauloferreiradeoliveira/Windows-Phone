@@ -1,0 +1,6 @@
+G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.Windows\obj\Debug\App.g.i.cs
+G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.Windows\obj\Debug\App.g.cs
+G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.Windows\obj\Debug\XamlTypeInfo.g.cs
+G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.Windows\obj\Debug\App.xaml
+G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.Windows\obj\Debug\App.xbf
+G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.Windows\obj\Debug\XamlSaveStateFile.xml

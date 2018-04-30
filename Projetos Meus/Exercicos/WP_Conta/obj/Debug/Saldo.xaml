@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="WP_Conta.Saldo"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WP_Conta"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock x:Name="txttitle" HorizontalAlignment="Left" Height="116" Margin="10,48,0,0" TextWrapping="Wrap" Text="Banco" VerticalAlignment="Top" Width="380" FontSize="40" TextAlignment="Center"/>
+        <TextBlock x:Name="txtsaldo" HorizontalAlignment="Left" Height="39" Margin="10,125,0,0" TextWrapping="Wrap" Text="Seu saldo e de :" VerticalAlignment="Top" Width="165" FontSize="20"/>
+        <Button x:ConnectionId='1' x:Name="btnvoltar" Content="Voltar" HorizontalAlignment="Left" Height="18" Margin="236,568,0,0" VerticalAlignment="Top" Width="154"                        />
+
+    </Grid>
+</Page>
+

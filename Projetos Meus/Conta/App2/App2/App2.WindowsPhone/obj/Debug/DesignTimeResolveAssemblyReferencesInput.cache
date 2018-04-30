@@ -1,0 +1,262 @@
+(Activator != null); } }
+        override public bool IsDictionary { get { return (DictionaryAdd != null); } }
+        override public bool IsMarkupExtension { get { return _isMarkupExtension; } }
+        override public bool IsBindable { get { return _isBindable; } }
+        override public bool IsReturnTypeStub { get { return _isReturnTypeStub; } }
+        override public bool IsLocalType { get { return _isLocalType; } }
+
+        override public global::Windows.UI.Xaml.Markup.IXamlMember ContentProperty
+        {
+            get { return _provider.GetMemberByLongName(_contentPropertyName); }
+        }
+
+        override public global::Windows.UI.Xaml.Markup.IXamlType ItemType
+        {
+            get { return _provider.GetXamlTypeByName(_itemTypeName); }
+        }
+
+        override public global::Windows.UI.Xaml.Markup.IXamlType KeyType
+        {
+            get { return _provider.GetXamlTypeByName(_keyTypeName); }
+        }
+
+        override public global::Windows.UI.Xaml.Markup.IXamlMember GetMember(string name)
+        {
+            if (_memberNames == null)
+            {
+                return null;
+            }
+            string longName;
+            if (_memberNames.TryGetValue(name, out longName))
+            {
+                return _provider.GetMemberByLongName(longName);
+            }
+            return null;
+        }
+
+        override public object ActivateInstance()
+        {
+            return Activator(); 
+        }
+
+        override public void AddToMap(object instance, object key, object item) 
+        {
+            DictionaryAdd(instance, key, item);
+        }
+
+        override public void AddToVector(object instance, object item)
+        {
+            CollectionAdd(instance, item);
+        }
+
+        override public void RunInitializer() 
+        {
+            System.Runtime.CompilerServices.RuntimeHelpers.RunClassConstructor(UnderlyingType.TypeHandle);
+        }
+
+        override public object CreateFromString(string input)
+        {
+            if (_enumValues != null)
+            {
+                int value = 0;
+
+                string[] valueParts = input.Split(',');
+
+                foreach (string valuePart in valueParts) 
+                {
+                    object partValue;
+                    int enumFieldValue = 0;
+                    try
+                    {
+                        if (_enumValues.TryGetValue(valuePart.Trim(), out partValue))
+                        {
+                            enumFieldValue = global::System.Convert.ToInt32(partValue);
+                        }
+                        else
+                        {
+                            try
+                            {
+                                enumFieldValue = global::System.Convert.ToInt32(valuePart.Trim());
+                            }
+                            catch( global::System.FormatException )
+                            {
+                                foreach( string key in _enumValues.Keys )
+                                {
+                                    if( string.Compare(valuePart.Trim(), key, global::System.StringComparison.OrdinalIgnoreCase) == 0 )
+                                    {
+                                        if( _enumValues.TryGetValue(key.Trim(), out partValue) )
+                                        {
+                                            enumFieldValue = global::System.Convert.ToInt32(partValue);
+                                            break;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        value |= enumFieldValue; 
+                    }
+                    catch( global::System.FormatException )
+                    {
+                        throw new global::System.ArgumentException(input, FullName);
+                    }
+                }
+
+                return value; 
+            }
+            throw new global::System.ArgumentException(input, FullName);
+        }
+
+        // --- End of Interface methods
+
+        public Activator Activator { get; set; }
+        public AddToCollection CollectionAdd { get; set; }
+        public AddToDictionary DictionaryAdd { get; set; }
+
+        public void SetContentPropertyName(string contentPropertyName)
+        {
+            _contentPropertyName = contentPropertyName;
+        }
+
+        public void SetIsArray()
+        {
+            _isArray = true; 
+        }
+
+        public void SetIsMarkupExtension()
+        {
+            _isMarkupExtension = true;
+        }
+
+        public void SetIsBindable()
+        {
+            _isBindable = true;
+        }
+
+        public void SetIsReturnTypeStub()
+        {
+            _isReturnTypeStub = true;
+        }
+
+        public void SetIsLocalType()
+        {
+            _isLocalType = true;
+        }
+
+        public void SetItemTypeName(string itemTypeName)
+        {
+            _itemTypeName = itemTypeName;
+        }
+
+        public void SetKeyTypeName(string keyTypeName)
+        {
+            _keyTypeName = keyTypeName;
+        }
+
+        public void AddMemberName(string shortName)
+        {
+            if(_memberNames == null)
+            {
+                _memberNames =  new global::System.Collections.Generic.Dictionary<string,string>();
+            }
+            _memberNames.Add(shortName, FullName + "." + shortName);
+        }
+
+        public void AddEnumValue(string name, object value)
+        {
+            if (_enumValues == null)
+            {
+                _enumValues = new global::System.Collections.Generic.Dictionary<string, object>();
+            }
+            _enumValues.Add(name, value);
+        }
+    }
+
+    internal delegate object Getter(object instance);
+    internal delegate void Setter(object instance, object value);
+
+    
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.Windows.UI.Xaml.Build.Tasks", "4.0.0.0")]    
+    [System.Diagnostics.DebuggerNonUserCodeAttribute()]
+    internal class XamlMember : global::Windows.UI.Xaml.Markup.IXamlMember
+    {
+        global::W_WP_MeuMapa.W_WP_MeuMapa_WindowsPhone_XamlTypeInfo.XamlTypeInfoProvider _provider;
+        string _name;
+        bool _isAttachable;
+        bool _isDependencyProperty;
+        bool _isReadOnly;
+
+        string _typeName;
+        string _targetTypeName;
+
+        public XamlMember(global::W_WP_MeuMapa.W_WP_MeuMapa_WindowsPhone_XamlTypeInfo.XamlTypeInfoProvider provider, string name, string typeName)
+        {
+            _name = name;
+            _typeName = typeName;
+            _provider = provider;
+        }
+
+        public string Name { get { return _name; } }
+
+        public global::Windows.UI.Xaml.Markup.IXamlType Type
+        {
+            get { return _provider.GetXamlTypeByName(_typeName); }
+        }
+
+        public void SetTargetTypeName(string targetTypeName)
+        {
+            _targetTypeName = targetTypeName;
+        }
+        public global::Windows.UI.Xaml.Markup.IXamlType TargetType
+        {
+            get { return _provider.GetXamlTypeByName(_targetTypeName); }
+        }
+
+        public void SetIsAttachable() { _isAttachable = true; }
+        public bool IsAttachable { get { return _isAttachable; } }
+
+        public void SetIsDependencyProperty() { _isDependencyProperty = true; }
+        public bool IsDependencyProperty { get { return _isDependencyProperty; } }
+
+        public void SetIsReadOnly() { _isReadOnly = true; }
+        public bool IsReadOnly { get { return _isReadOnly; } }
+
+        public Getter Getter { get; set; }
+        public object GetValue(object instance)
+        {
+            if (Getter != null)
+                return Getter(instance);
+            else
+                throw new global::System.InvalidOperationException("GetValue");
+        }
+
+        public Setter Setter { get; set; }
+        public void SetValue(object instance, object value)
+        {
+            if (Setter != null)
+                Setter(instance, value);
+            else
+                throw new global::System.InvalidOperationException("SetValue");
+        }
+    }
+}
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ﻿<?xml version="1.0" encoding="utf-8"?>
+<resources targetOsVersion="6.3.1" targetPlatform="WindowsPhone" majorVersion="1">
+  <index root="\" startIndexAt="obj\Debug\layout.resfiles">
+    <default>
+      <qualifier name="Language" value="en-US" />
+      <qualifier name="Contrast" value="standard" />
+      <qualifier name="Scale" value="240" />
+      <qualifier name="HomeRegion" value="001" />
+      <qualifier name="TargetSize" value="256" />
+      <qualifier name="LayoutDirection" value="LTR" />
+      <qualifier name="DXFeatureLevel" value="DX9" />
+      <qualifier name="Theme" value="Dark" />
+      <qualifier name="AlternateForm" value="" />
+    </default>
+    <indexer-config type="RESFILES" qualifierDelimiter="." />
+  </index>
+  <index root="\" startIndexAt="obj\Debug\resources.resfiles">
+    <default>
+      <qualifier name="Language" value="en-US" /

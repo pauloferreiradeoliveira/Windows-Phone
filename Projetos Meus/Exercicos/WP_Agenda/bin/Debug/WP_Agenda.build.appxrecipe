@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB-F26-23</Machine>
+    <WindowsUser>paulo.ferreira</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>645211e0-315c-4470-bb5d-601f397477a2</PackageIdentityName>
+    <IntermediateOutputPath>J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.exe">
+      <PackagePath>WP_Agenda.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\Assets\Untitled.jpg">
+      <PackagePath>Assets\Untitled.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Buscar.xbf">
+      <PackagePath>Buscar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Cadastro.xbf">
+      <PackagePath>Cadastro.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Excluir.xbf">
+      <PackagePath>Excluir.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Imprimir.xbf">
+      <PackagePath>Imprimir.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.xr.xml">
+      <PackagePath>WP_Agenda.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

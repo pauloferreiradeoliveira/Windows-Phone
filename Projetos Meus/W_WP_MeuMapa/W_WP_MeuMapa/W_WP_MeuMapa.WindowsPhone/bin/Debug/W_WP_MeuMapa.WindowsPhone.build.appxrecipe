@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PAULO-PC</Machine>
+    <WindowsUser>Paulo</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>c1d8657e-de5f-4d41-a56b-f0b1e0759877</PackageIdentityName>
+    <IntermediateOutputPath>G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\bin\Debug\W_WP_MeuMapa.WindowsPhone.exe">
+      <PackagePath>W_WP_MeuMapa.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\Assets\mylocation.png">
+      <PackagePath>Assets\mylocation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\bin\Debug\W_WP_MeuMapa.WindowsPhone.xr.xml">
+      <PackagePath>W_WP_MeuMapa.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="G:\Senai\Projetos Meus\W_WP_MeuMapa\W_WP_MeuMapa\W_WP_MeuMapa.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

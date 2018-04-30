@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="WP_Agenda.Buscar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WP_Agenda"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="42,29,0,0" TextWrapping="Wrap" Text="Agenda" VerticalAlignment="Top" Height="54" Width="309" FontSize="30" TextAlignment="Center"/>
+        <ComboBox x:ConnectionId='1' x:Name="cblist" HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top" Width="380"                                           />
+        <TextBlock x:Name="txtnome" HorizontalAlignment="Left" Margin="10,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="1.024,-2.445" FontSize="30" Width="380" TextAlignment="Center"/>
+        <TextBlock x:Name="txtemail" HorizontalAlignment="Left" Height="37" Margin="10,188,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="380" FontSize="20" RenderTransformOrigin="0.507,1.583"/>
+        <TextBlock x:Name="txtsexo" HorizontalAlignment="Left" Height="37" Margin="10,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="380" FontSize="20" RenderTransformOrigin="0.507,1.583"/>
+        <TextBlock x:Name="txtnasc" HorizontalAlignment="Left" Height="37" Margin="10,272,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="380" FontSize="20" RenderTransformOrigin="0.507,1.583"/>
+        <Button x:ConnectionId='2' x:Name="btvoltar" Content="Voltar" HorizontalAlignment="Left" Height="8" Margin="281,582,0,0" VerticalAlignment="Top" Width="0"                       />
+
+    </Grid>
+</Page>
+

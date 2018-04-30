@@ -1,0 +1,141 @@
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\App.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\MainPage.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.xr.xml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.exe
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.pdb
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\resources.pri
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\AppxManifest.xml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.build.appxrecipe
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\App.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\App.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\App.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\App.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\WP_Conta.exe
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\WP_Conta.pdb
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\priconfig.xml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\priconfig.xml.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\layout.resfiles
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\layout.resfiles.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\resources.resfiles
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\resources.resfiles.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\pri.resfiles
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\pri.resfiles.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\qualifiers.txt
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\ProjectArchitectures.txt
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\BlankPage1.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\Saldo.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\bin\Debug\Sacar.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\App.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\BlankPage1.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\MainPage.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\Sacar.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\Saldo.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.xr.xml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.exe
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.pdb
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\resources.pri
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\AppxManifest.xml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.build.appxrecipe
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\App.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\App.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\XamlTypeInfo.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\App.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\App.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\XamlSaveStateFile.xml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\WP_Conta.exe
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\WP_Conta.pdb
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\priconfig.xml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\priconfig.xml.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\layout.resfiles
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\layout.resfiles.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\resources.resfiles
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\resources.resfiles.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\pri.resfiles
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\pri.resfiles.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\qualifiers.txt
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\qualifiers.txt.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\ProjectArchitectures.txt
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\App.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\BlankPage1.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\MainPage.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\Sacar.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\Saldo.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.xr.xml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.exe
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.pdb
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\resources.pri
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\AppxManifest.xml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\bin\Debug\WP_Conta.build.appxrecipe
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\App.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\App.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\XamlTypeInfo.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\App.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\App.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\BlankPage1.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MainPage.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Sacar.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\Saldo.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\XamlSaveStateFile.xml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\WP_Conta.exe
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\WP_Conta.pdb
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\priconfig.xml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\priconfig.xml.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\layout.resfiles
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\layout.resfiles.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\resources.resfiles
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\resources.resfiles.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\pri.resfiles
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\pri.resfiles.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\qualifiers.txt
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\qualifiers.txt.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta\obj\Debug\ProjectArchitectures.txt

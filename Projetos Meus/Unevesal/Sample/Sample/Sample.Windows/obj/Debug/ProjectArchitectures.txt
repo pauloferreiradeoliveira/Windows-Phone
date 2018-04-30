@@ -1,0 +1,1 @@
+J:\Senai\Unevesal\Sample\Sample\Sample.Windows\Sample.Windows.csproj;neutral

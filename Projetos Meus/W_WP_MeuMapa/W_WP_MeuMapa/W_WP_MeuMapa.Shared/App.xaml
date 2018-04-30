@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="W_WP_MeuMapa.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:W_WP_MeuMapa">
+
+</Application>

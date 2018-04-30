@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Cadastro_WP8._1.resuldado"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Cadastro_WP8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel Grid.Row="6" Orientation="Vertical">
+            <TextBlock x:Name="txtEnviado" HorizontalAlignment="Left" Height="25" Margin="5,9.667,0,0"  TextWrapping="Wrap" VerticalAlignment="Top" Width="385" TextAlignment="Center" FontSize="23" Foreground="#FF1308FF"/>
+            <TextBlock x:Name="txtnomer" Text="" FontSize="18"/>
+            <TextBlock x:Name="txtemail" Text="" FontSize="18"/>
+            <TextBlock x:Name="txtsexo" Text="" FontSize="18"/>
+            <TextBlock x:Name="txtidader" Text="" FontSize="18"/>
+        </StackPanel>
+
+    </Grid>
+</Page>

@@ -1,0 +1,32 @@
+/*CREATE DATABASE dbExtra
+GO
+
+--USE dbExtra*/
+
+CREATE TABLE TblCliente(
+	IdCliente INT PRIMARY KEY IDENTITY(1,1),
+	Nome VARCHAR(150) NOT NULL,
+	CPF VARCHAR(14) UNIQUE NOT NULL,
+	DataNascimento DATE NOT NULL
+)
+GO
+
+CREATE TABLE TblTipoTelefone(
+	IdTipoTelefone INT PRIMARY KEY IDENTITY(1,1),
+	Nome VARCHAR(50) NOT NULL
+)
+GO
+
+ALTER TABLE TblTipoTelefone
+ADD Situacao BIT NOT NULL
+
+GO
+CREATE TABLE TblTelefone(
+	IdTelefone INT PRIMARY KEY IDENTITY(1,1),
+	IdClienteFK INT NOT NULL FOREIGN KEY 
+		REFERENCES TblCliente(IdCliente),
+	IdTipoTelefoneFK INT NOT NULL FOREIGN KEY
+		REFERENCES TblTipoTelefone(IdTipoTelefone),
+	NumeroTelefone VARCHAR(20) NOT NULL
+)
+

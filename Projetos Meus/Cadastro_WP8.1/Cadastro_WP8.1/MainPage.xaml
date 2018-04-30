@@ -1,0 +1,52 @@
+﻿<Page
+    x:Class="Cadastro_WP8._1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Cadastro_WP8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Page.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="Blue"></Setter>
+           
+        </Style>
+    </Page.Resources>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60*"/>
+            <RowDefinition Height="65*"/>
+            <RowDefinition Height="80*"/>
+            <RowDefinition Height="63*"/>
+            <RowDefinition Height="116*"/>
+            <RowDefinition Height="69*"/>
+            <RowDefinition Height="187*"/>
+        </Grid.RowDefinitions>
+        <TextBlock x:Name="TxtCadastro" HorizontalAlignment="Center" Margin="5,24,5,0" TextWrapping="Wrap" Text="Cadastro" VerticalAlignment="Top" FontSize="30" Foreground="#FF0D29DC" Width="390"  TextAlignment="Center" Height="36"/>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" Margin="0,0,0,5">
+            <TextBlock x:Name="txtnome" Text="Nome:" FontSize="18" />
+            <TextBox x:Name="boxnome" Margin="0" TextWrapping="Wrap" VerticalAlignment="Stretch" PlaceholderText="Nome" />
+        </StackPanel>
+        <StackPanel Grid.Row="2" Orientation="Vertical" Margin="0,0,0,16">
+            <TextBlock TextWrapping="Wrap" Text="Email" FontSize="18"/>
+            <TextBox x:Name="boxemail" Margin="0" TextWrapping="Wrap" VerticalAlignment="Stretch" PlaceholderText="Email" InputScope="EmailSmtpAddress"/>
+
+        </StackPanel>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" Margin="0,7,0,90.167" Grid.RowSpan="2">
+            <RadioButton x:Name="radiomas" Content="Masculino" IsChecked="True" GroupName="sexo" />
+            <RadioButton x:Name="radiaofem" Content="Feminino" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" GroupName="sexo"/>
+        </StackPanel>
+        <StackPanel Grid.Row="3" Orientation="Vertical" Margin="0,63,0,65.167" Grid.RowSpan="2">
+            <TextBlock x:Name="txtidade" Text="Idade" FontSize="18"/>
+            <Slider x:Name="slideridade" Maximum="110" ValueChanged="slideridade_ValueChanged" />
+        </StackPanel>
+        <Button Content="Enviar" HorizontalAlignment="Left" Height="37" Margin="266,9.833,0,0" Grid.Row="5" VerticalAlignment="Top" Width="124" Click="Button_Click"/>
+    
+        <TextBlock x:Name="txtnum" HorizontalAlignment="Left" Height="35" Margin="241,70.667,0,0" Grid.Row="4" TextWrapping="Wrap" VerticalAlignment="Top" Width="149" FontSize="14" TextAlignment="Right"/>
+        <Button x:Name="btnlimapr" Content="Limpar" HorizontalAlignment="Left" Height="25" Margin="5,9.833,0,0" Grid.Row="5" VerticalAlignment="Top" Width="130" Click="btnlimapr_Click"/>
+
+    </Grid>
+</Page>

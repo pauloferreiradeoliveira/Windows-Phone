@@ -1,0 +1,156 @@
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\App.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\Cadastro.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\MainPage.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.xr.xml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.exe
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.pdb
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\resources.pri
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\AppxManifest.xml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.build.appxrecipe
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\App.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\App.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\App.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\App.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\WP_Agenda.exe
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\WP_Agenda.pdb
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\priconfig.xml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\priconfig.xml.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\layout.resfiles
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\layout.resfiles.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\resources.resfiles
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\resources.resfiles.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\pri.resfiles
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\pri.resfiles.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\qualifiers.txt
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\ProjectArchitectures.txt
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\Buscar.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\Excluir.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\bin\Debug\Imprimir.xbf
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.g.i.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.g.cs
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.xaml
+C:\Users\Paulo\documents\visual studio 2013\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\App.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Buscar.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Cadastro.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Excluir.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Imprimir.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\MainPage.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.xr.xml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.exe
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.pdb
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\resources.pri
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\AppxManifest.xml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.build.appxrecipe
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\App.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\App.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.g.i.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\XamlTypeInfo.g.cs
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\App.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.xaml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\App.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.xbf
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\XamlSaveStateFile.xml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\WP_Agenda.exe
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\WP_Agenda.pdb
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\priconfig.xml
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\priconfig.xml.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\layout.resfiles
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\layout.resfiles.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\resources.resfiles
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\resources.resfiles.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\pri.resfiles
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\pri.resfiles.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\qualifiers.txt
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\qualifiers.txt.intermediate
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+I:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\ProjectArchitectures.txt
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\App.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Buscar.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Cadastro.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Excluir.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\Imprimir.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\MainPage.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.xr.xml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.exe
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.pdb
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\resources.pri
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\AppxManifest.xml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\bin\Debug\WP_Agenda.build.appxrecipe
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\App.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\App.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.g.i.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\XamlTypeInfo.g.cs
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\App.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.xaml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\App.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Buscar.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Cadastro.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Excluir.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\Imprimir.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MainPage.xbf
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\XamlSaveStateFile.xml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\WP_Agenda.exe
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\WP_Agenda.pdb
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\priconfig.xml
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\priconfig.xml.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\layout.resfiles
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\layout.resfiles.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\resources.resfiles
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\resources.resfiles.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\pri.resfiles
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\pri.resfiles.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\qualifiers.txt
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\qualifiers.txt.intermediate
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+J:\Senai\Projetos Meus\Projects\Exercicos\WP_Agenda\obj\Debug\ProjectArchitectures.txt

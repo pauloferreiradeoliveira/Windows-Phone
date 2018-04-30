@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB-F26-23</Machine>
+    <WindowsUser>paulo.ferreira</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ae7cb8ea-0c1b-4c66-831e-f383a576160a</PackageIdentityName>
+    <IntermediateOutputPath>J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\bin\Debug\WP_Conta.Windows.exe">
+      <PackagePath>WP_Conta.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\bin\Debug\WP_Conta.Windows.xr.xml">
+      <PackagePath>WP_Conta.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="J:\Senai\Projetos Meus\Projects\Exercicos\WP_Conta.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
